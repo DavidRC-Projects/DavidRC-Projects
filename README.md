@@ -2,7 +2,7 @@
 
 I am a Full Stack Software Developer, Physiotherapist and Mentor.
 
-I have a MSc in Physiotherapy. I am awaiting my results for a Diploma in Full Stack Development from the Code Institute with a specialisation in predictive analytics. I also have a level 4 diploma in mentoring.
+I have a MSc in Physiotherapy. I have Diploma in Full Stack Development from the Code Institute with a specialisation in predictive analytics (Distinction). I also have a level 4 diploma in mentoring.
 
 My linkedin profile: <a target="_blank" href="www.linkedin.com/in/david-carr-9a71a1312"><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></a>
 
